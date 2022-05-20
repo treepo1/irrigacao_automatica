@@ -19,4 +19,6 @@ Turma: 02
 
 /check Checa a umidade atual do solo e o seu status
 
+Demonstração do funcionamento: https://youtu.be/gQXwWP9tS_I
+
 
