@@ -1,6 +1,8 @@
 # Irrigação automática com arduino
 
 Sistema de irrigação automática utilizando arduino ( Projeto final feito para a disciplina de sistemas embarcados)
+Aluno: Thiago Freire de Carvalho
+Turma: 02
 
 
 ## A placa se conecta ao wifi por meio da biblioteca <WiFiClientSecure.h>
