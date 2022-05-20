@@ -9,7 +9,7 @@ Sistema de irrigação automática utilizando arduino ( Projeto final feito para
 
 ## Comandos bot:
 
-`/start´ Inicializa o bot com o modo automático de irrigação de desligado (Informação de umidade dada a cada 24 horas)
+#/start Inicializa o bot com o modo automático de irrigação de desligado (Informação de umidade dada a cada 24 horas)
 
 
 
